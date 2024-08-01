@@ -1,1 +1,20 @@
-For running the project make two folders in same folder. one folder name is client another one is server. First client,cd client and to run npm start.  First server,cd server and to run npm start 
+Project : Full-Stack Developer Challenge - Task Manager Application
+
+## Installation
+- npm i 
+
+### Prerequisites
+- Node.js
+- npm
+
+## Setting up the client:
+cd client
+npm install
+
+## Setting up the server:
+cd server
+npm install
+
+
+
+
